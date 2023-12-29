@@ -1,1 +1,1 @@
-  A simple code for load-balancing on db using Kafka
+  `A simple code for load-balancing on db using Kafka`
